@@ -1,0 +1,6 @@
+{
+  "name": "Eucharistic Miracles",
+  "description": "An extensive catalog of approved Eucharistic Miracles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
